@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MyViewAndViewGroup</string>
+    <string name="content_text">The success of the Galaxy A54 has set the bar high for the just-released Galaxy A55. After the Samsung Galaxy S and Z foldable series, the Galaxy A5x series is likely the most popular in the company\'s portfolio for good reason. This year\'s model makes gains in key areas. The new A55 boasts a bigger display, a more powerful chipset, more RAM in the base configuration and a tougher and more premium build.</string>
+    <string name="content_specs_display">6.60 inches\n
+        Super AMOLED at 390ppi\n
+        Gorilla Glass Victus+</string>
+    <string name="content_specs_size">161.1x77.4x8.2mm, 213g; Glass front (Gorilla Glass Victus+), glass back (Gorilla Glass), aluminum frame; IP67 dust/water resistant (up to 1m for 30 min)</string>
+    <string name="content_specs_battery">2,770 mAh battery\n
+        Standby time (LTE): up to 19 days\n
+        Talk time (3g/WCDMA): up to 26 hours\n
+        Internet use time (Wi-Fi): up to 13 hours\n
+        Internet use time (LTE): up to 13 hours\n
+        Video playback: up to 13 hours\n
+        Audio playback (via headset): up to 110 hours\n
+        Fast charging: up to 7 hours of use from only 15 minutes of charging</string>
+    <string name="title">Samsung A55</string>
+    <string name="specification">Specification</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Rian Saputra</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">Rp 5.999.999</string>
+    <string name="dummy_photos">4 photos</string>
+</resources>
